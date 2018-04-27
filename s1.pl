@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 #$j="my name is jaideep";
 #$j =~ s/$j/my name is seenu/;
-#$j =~ s/jaideep/rk/;
+#$j =~ s/jaideep/lakshmikantham/;
 #print "$j\n";
 
 
