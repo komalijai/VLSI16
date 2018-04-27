@@ -6,4 +6,7 @@ for $n(@ARGV)
 	{
 	print"The value is even: $n \n";
 	}
+	else{
+	print"The value is odd\n";
+	}
 	}
